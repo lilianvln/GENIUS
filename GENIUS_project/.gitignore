@@ -1,0 +1,45 @@
+# Environnements virtuels
+.venv/
+ENV/
+env/
+venv/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers Jupyter
+.ipynb_checkpoints/
+
+# CSV et fichiers de données volumineux
+*.csv
+*.tsv
+*.json
+*.xlsx
+
+# Fichiers générés par l'IDE
+.idea/
+*.iml
+
+# Logs et temporaires
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Dossiers de sortie
+output/
+build/
+dist/
+*.egg-info/
+
+# Autres fichiers non pertinents
+*.zip
+*.tar.gz
+*.rar
